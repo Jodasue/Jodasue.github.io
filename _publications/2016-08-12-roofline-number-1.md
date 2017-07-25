@@ -1,9 +1,9 @@
 ---
 title: "Extending the Roofline Model for Asynchronous Many-Task Runtimes"
 collection: publications
-permalink:
+permalink: /publication/2016-08-12-roofline-number-1
 excerpt:
-date: 2016
+date: 2016-08-12
 venue: 'CLUSTER 2016'
 paperurl: 'http://ieeexplore.ieee.org/abstract/document/7776548/'
 citation:

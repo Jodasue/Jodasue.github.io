@@ -1,15 +1,11 @@
 ---
-title: "Paper Title Number 1"
+title: "Extending the Roofline Model for Asynchronous Many-Task Runtimes"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink:
+excerpt:
+date:
+venue: 'CLUSTER 2016'
+paperurl: 'http://ieeexplore.ieee.org/abstract/document/7776548/'
+citation:
 ---
-This paper is about the number 1. The number 2 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+A common practice for application developers is to experimentally determine the granularity of a task after a code has been parallelized based on the observed overhead of a runtime. Instead, we propose a new methodology based on an extended Roofline model to provide practical upper bounds on the throughput performance of an application. First, we extend the Roofline model to support not only latency hiding analysis, but also a multidimensional amortized analysis. By combining this new methodology with a serial application and an Asynchronous Many Task (AMT) runtime implementation, we can predict the worst case runtime overhead attribution of individual runtime features prior to the development of parallel code.

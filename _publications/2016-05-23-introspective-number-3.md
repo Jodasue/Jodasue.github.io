@@ -1,7 +1,7 @@
 ---
 title: "Asynchronous Runtimes in Action: An Introspective Framework for a Next Gen Runtime"
 collection: publications
-permalink: /publication/2016-08-12-roofline-number-1
+permalink: /publication/2016-05-23-introspective-number-3
 excerpt:
 date: 2016-05-23
 venue: 'IPDRM'

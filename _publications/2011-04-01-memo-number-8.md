@@ -15,10 +15,10 @@ A cornerstone of the UHPC Runnemede project is its program execution model. This
 model that is centered on the concepts and semantics of codelets
 - Based on the base codelet model above, two types of asynchronous task level parallelism can
 be exploited under our execution model
-– Type-I asynchronous task parallelism (at the procedure level) : An event-driven, func-
+- Type-I asynchronous task parallelism (at the procedure level) : An event-driven, func-
 tion/procedure invocation model coupled with split-phase continuations enabled by a codelet based ”sync” back mechanism
-– Type II asynchronous task parallelism (at the loop level): an event-driven software pipelining model leveraging an extension of dataflow software pipelining based on codelets
--A shared-address space synchronization model based on an extended location consistency
+- Type II asynchronous task parallelism (at the loop level): an event-driven software pipelining model leveraging an extension of dataflow software pipelining based on codelets
+- A shared-address space synchronization model based on an extended location consistency
 (LC) model, and the single-assignment principle.
 
 In addition, we provide a brief discussion on means to obtain energy-efficient and resilient program execution through codelet use. Furthermore, the requirements for an appropriate API for the Runnemede program execution model are illustrated through an example. The program execution model and its abstract machine model at Delaware are still evolving rapidly, as such, this technical report constitutes a “work in progress” and is subject to change in the future.

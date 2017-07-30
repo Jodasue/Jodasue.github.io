@@ -18,8 +18,8 @@ In the following, we present the Delaware Asynchronous RunTime System (DARTS), a
 
 1. A specification for the Codelet execution model
 2. DARTS: An accurate implementation of the Codelet model   
-  (a) Two levels of parallelism; fine-grained tasks and procedures intertwined by fine-grain synchronization
-  (b) Adaptable abstract machine capable scaling for different applications and hardware
+   (a) Two levels of parallelism; fine-grained tasks and procedures intertwined by fine-grain synchronization
+   (b) Adaptable abstract machine capable scaling for different applications and hardware
 3. A two phase evaluation of DARTS and the Codelet execution model running on available off-the-shelf hardware accomplish by
-  (a) Micro benchmarking the base primitives employed by DARTS to realize the Codelet model
-  (b) Evaluating case studies on selected benchmarks representative of workloads of interest including matrix multiply and breadth first search
+   (a) Micro benchmarking the base primitives employed by DARTS to realize the Codelet model
+   (b) Evaluating case studies on selected benchmarks representative of workloads of interest including matrix multiply and breadth first search

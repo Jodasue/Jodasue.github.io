@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2015-03-22-stream-number-5
 excerpt:
 date: 2015-03-22
-venue: 'STREAM 2015'
+venue: 'STREAM'
 paperurl: 'http://streamingsystems.org/WP/stream15Suetterlein.pdf'
 citation:
 ---

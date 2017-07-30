@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2014-05-01-masters-number-6
 excerpt:
 date: 2014-05-01
-venue:
+venue: University of Delaware
 paperurl: 'https://search.proquest.com/openview/060326e15a5c48c46a55bdc9c260ebb0/1?pq-origsite=gscholar&cbl=18750&diss=y'
 citation:
 ---

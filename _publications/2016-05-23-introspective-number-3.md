@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2016-08-12-roofline-number-1
 excerpt:
 date: 2016-05-23
-venue: 'IPDRM 2016'
+venue: 'IPDRM'
 paperurl: 'http://ieeexplore.ieee.org/abstract/document/7530078/'
 citation:
 ---

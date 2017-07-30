@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2011-04-01-memo-number-8
 excerpt:
 date: 2011-04-01
-venue:
+venue: University of Delaware
 paperurl:
 citation:
 ---

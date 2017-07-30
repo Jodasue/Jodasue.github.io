@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2011-06-05-position-number-7
 excerpt:
 date: 2011-06-05
-venue: 'EXADAPT 2011'
+venue: 'EXADAPT'
 paperurl: 'http://dl.acm.org/citation.cfm?id=2000424'
 citation:
 ---

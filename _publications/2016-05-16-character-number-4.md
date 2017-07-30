@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2016-05-16-character-number-4
 excerpt:
 date: 2016-05-16
-venue: 'Computing Frontiers 2016'
+venue: 'Computing Frontiers'
 paperurl: 'http://dl.acm.org/citation.cfm?id=2903166'
 citation:
 ---

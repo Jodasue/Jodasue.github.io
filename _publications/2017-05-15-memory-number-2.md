@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2017-05-15-roofline-number-1
 excerpt:
 date: 2017-05-15
-venue: 'Computing Frontiers 2017'
+venue: 'Computing Frontiers'
 paperurl: 'http://dl.acm.org/citation.cfm?id=3077425'
 citation:
 ---

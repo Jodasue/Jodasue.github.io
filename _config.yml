@@ -79,9 +79,9 @@ analytics:
 # Site Author
 author:
   name             : #"Your Sidebar Name"
-  avatar           : "profile.png"
+  avatar           : "josh.png"
   bio              : #"Your biography for the left-hand sidebar"
-  location         : 
+  location         :
   employer         :
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=2Lq_-pcAAAAJ"
   email            :

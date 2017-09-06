@@ -11,7 +11,10 @@ redirect_from:
 Contact Information
 ======
 Email: Jodasue@gmail.com
+
 Phone: (302) 312 3506
+
+Resume: [resume.pdf](https://github.com/Jodasue/Jodasue.github.io/files/resume.pdf)
 
 About Me
 ======

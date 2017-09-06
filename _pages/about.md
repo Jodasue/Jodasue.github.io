@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Joshua Suetterlein"
 excerpt: "About me"
 author_profile: true
 redirect_from:
@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Joshua Suetterlein Contact Information
+Contact Information
 ======
-Email: Jodasue@gmail.compute
+Email: Jodasue@gmail.com
 Phone: (302) 312 3506
 
 About Me
